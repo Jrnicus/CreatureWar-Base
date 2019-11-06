@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Balrog
+comment0.text=\r\n\ Balrog\ is\ a\ type\ of\ Demon\ that\ has\ a\ min\ helth\ of\ 80\ and\ max\ of\ 200\r\n\ an\ has\ a\ min\ strength\ of\ 50\ and\ max\ of\ 100\r\n\r\n\ @author\ Steve\ Cate\r\n\ @version\ 11/06/19\r\n
+comment1.params=
+comment1.target=Balrog()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Balrog\r\n\ Will\ create\ a\ Demon\ and\ will\ tell\ it\ what\ its\ \r\n\ min\ and\ max\ values\ are\ for\ health\ and\ strength\r\n
+numComments=2

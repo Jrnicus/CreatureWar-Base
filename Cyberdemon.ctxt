@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cyberdemon
+comment0.text=\r\n\ Cyberdemon\ is\ a\ type\ of\ Demon\ that\ has\ a\ min\ helth\ of\ 25\ and\ max\ of\ 100\r\n\ an\ has\ a\ min\ strength\ of\ 20\ and\ max\ of\ 40\r\n\r\n\ @author\ Steve\ Cate\r\n\ @version\ 11/06/19\r\n
+comment1.params=
+comment1.target=Cyberdemon()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cyberdemon\r\n\ Will\ create\ a\ Demon\ and\ will\ tell\ it\ what\ its\ \r\n\ min\ and\ max\ values\ are\ for\ health\ and\ strength\r\n
+numComments=2

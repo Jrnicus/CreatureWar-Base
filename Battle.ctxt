@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Battle
+comment0.text=\r\n\ This\ will\ randomly\ generate\ 2\ armys\ with\ diffrent\ types\ of\ creatures\r\n\ The\ two\ armys\ can\ then\ battle\ each\ other\ and\ you\ will\ see\ which\ army\ won.\r\n\r\n\ @author\ Steve\ Cate\r\n\ @version\ 11/06/19\r\n
+comment1.params=
+comment1.target=Battle()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Battle\r\n
+comment2.params=army
+comment2.target=void\ generateNewArmy(Creature[])
+comment2.text=\r\n\ This\ will\ take\ a\ army\ array\ list\ and\ randomize\ it\ so\ it\r\n\ has\ all\ new\ creatures\ of\ diffrent\ type\ in\ it\r\n\ @param\ Creature[]\ army\r\n
+comment3.params=
+comment3.target=void\ generateNewArmys()
+comment3.text=\r\n\ This\ allows\ you\ to\ regenerate\ the\ army\ lists\ randomly\ again\ \r\n\ so\ that\ you\ might\ get\ diffrent\ armys\ with\ diffrent\ numbers\ of\ each\ type\ of\ creature.\r\n
+comment4.params=army
+comment4.target=void\ resetArmy(Creature[])
+comment4.text=\r\n\ This\ will\ reset\ the\ health\ back\ to\ full\ for\ all\ creatrues\ in\ both\ armys\r\n
+comment5.params=
+comment5.target=void\ resetArmys()
+comment5.text=\r\n\ This\ will\ reset\ both\ armys\ back\ to\ full\ health\r\n
+comment6.params=
+comment6.target=void\ battle()
+numComments=7

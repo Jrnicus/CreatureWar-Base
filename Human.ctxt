@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Human
+comment0.text=\r\n\ Human\ is\ a\ basic\ creature\ with\ a\ min\ health\ of\ 10\ and\ max\ of\ 30\r\n\ and\ a\ min\ strength\ of\ 5\ and\ max\ of\ 18\r\n\ Human\ as\ no\ other\ addtional\ ablities\r\n\r\n\ @author\ Steve\ Cate\r\n\ @version\ 11/06/19\r\n
+comment1.params=
+comment1.target=Human()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Human\r\n\ Will\ create\ a\ creature\ and\ set\ its\ health\ and\ strngeth\ randomly\r\n\ within\ the\ min\ and\ max\ range\ for\ Human\r\n
+numComments=2
