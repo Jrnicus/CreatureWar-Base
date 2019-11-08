@@ -43,7 +43,7 @@ public class Creature
     public Creature (int minHp, int maxHp, int minStr, int maxStr)
     {
         hp = (rand.nextInt((maxHp-minHp+1))+minHp);
-        fullHealth = (rand.nextInt((maxHp-minHp+1))+minHp);
+        fullHealth = hp;
         strength = (rand.nextInt((maxStr-minStr+1))+minStr);
         validateStats();
     }
