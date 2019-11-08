@@ -12,7 +12,7 @@ import org.junit.Test;
  * @version (a version number or a date)
  */
 public class TestBattles
-{
+{ 
     private Battle battle;
     
     /**
