@@ -50,7 +50,7 @@ public class TestBattles
     {
         battle.battle();
         
-        for(int i = 0; i < 100; i++)
+        for(int i = 0; i < 1000; i++)
         {
             battle.resetArmys();
             battle.battle();
@@ -65,7 +65,7 @@ public class TestBattles
     {
         battle.battle();
         
-        for(int i = 0; i < 100; i++)
+        for(int i = 0; i < 1000; i++)
         {
             battle.generateNewArmys();
             battle.battle();
