@@ -19,4 +19,9 @@ public class Balrog extends Demon
         // and a strength range from 50 to 100
         super(80, 200, 50, 100);
     }
+    
+    public int damage()
+    {
+        return (super.damage() + super.damage());
+    }
 }
